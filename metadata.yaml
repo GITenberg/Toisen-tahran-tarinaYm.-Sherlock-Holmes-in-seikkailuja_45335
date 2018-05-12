@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/69
     wikipedia: http://en.wikipedia.org/wiki/Arthur_Conan_Doyle
 description: Translations of selected stories from The Return of Sherlock Holmes.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45335#Toisen-tahran-tarinaYm.-Sherlock-Holmes-in-seikkailuja
 gutenberg_issued: '2014-04-06'
 gutenberg_type: Text
 identifiers:
